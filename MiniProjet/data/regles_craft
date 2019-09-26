@@ -1,0 +1,14 @@
+panier	osier
+marteau	fer	bois
+beche	fer	bois
+clou	fer	bois	marteau
+aiguille	fer	bois	marteau
+tomate	graine_tomate	panier
+coton	graine_coton	beche
+ble	graine_ble	beche
+hutte	osier	bois	clou	marteau
+metier_a_tisser	bois	corde	marteau
+pain	ble	bois
+tissu	metier_a_tisser	coton
+vetement	tissu	aiguille
+lit	bois	paille	tissu	marteau
