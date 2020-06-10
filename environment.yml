@@ -4,5 +4,4 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - nbtutor=1.0.4=py36_1003
-  - tutormagic=0.3.0=py36_0
+  - tutormagic=0.3.0
