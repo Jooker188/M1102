@@ -1,7 +1,6 @@
 name: base
 channels:
   - kikocorreoso
-  - conda-forge
-  - defaults
 dependencies:
+  - python=3.6
   - tutormagic=0.3.0
