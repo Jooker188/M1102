@@ -4,3 +4,4 @@ channels:
 dependencies:
   - python=3.6
   - tutormagic=0.3.0
+  - nbtutor=1.0.4
