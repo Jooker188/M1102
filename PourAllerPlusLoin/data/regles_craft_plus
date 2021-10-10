@@ -1,0 +1,23 @@
+# --------- craft de niveau 1
+panier	1	osier	10
+marteau	1	fer	5	bois	1
+beche	1	fer	5	bois	1
+
+# --------- craft de niveau 2
+clou	1	fer	1	bois	10	marteau	1
+aiguille	1	fer	1	bois	10	marteau	1
+tomate	10	graine_tomate	1	panier	1
+coton	2	graine_coton	100		beche	1
+ble	10	graine_ble	1000	beche	1
+
+# --------- craft de niveau 3
+hutte	1	osier	1000	bois	5	clou	50	marteau	1
+metier_a_tisser	1	bois	2	corde	5	marteau	1
+pain	1	ble		1	bois	1
+
+# --------- craft de niveau 4
+tissu	1	metier_a_tisser	1	coton	2
+
+# --------- craft de niveau 5
+vetement	1	tissu	2	aiguille	1
+lit	1	bois	1	paille	1	tissu	5	marteau	1
