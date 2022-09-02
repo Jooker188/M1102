@@ -19,13 +19,13 @@ Commande de lancement : `jupyter notebok`
  
 *Pour l'installer*, il faut utiliser les commandes suivantes 
 
-    ```
+    `
     git clone https://github.com/kandjiabdou/visual_pytutor.git
     
     jupyter nbextension install visual_pytutor
     
     jupyter nbextension enable visual_pytutor/main
-    ```
+    `
     
 Sur les machines de l'IUT seule la dernière commande est nécessaire. Elle doit être exécutée avant le lancement du notebook.
 
