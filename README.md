@@ -7,8 +7,13 @@ Bases de la programmation
 Ce dépôt contient les ressources pour le cours R101_1 du département de l'IUT de Villetaneuse. Ces ressources sont libres mais sous copy left.
 
 ## Accès aux données du dépôt 
-Pour copier les données dans un répertoire, utiliser la commande 
-```git clone 
+*Pour copier les données* dans un répertoire, utiliser la commande 
+```
+git clone git@github.com:iutVilletaneuseDptInfo/R101_1.git
+```
+Cela crée un dépot git intitulé R101_1.
+
+*Pour mettre à jour les données*, ouvrir un terminal dans le répertoire R101 et utiliser la commande `git pull`.
 
 ## Environnement interactif : Jupyter Notebook et Python Tutor
 
