@@ -21,7 +21,7 @@ Cela crée un dépot git intitulé R101_1.
 On utilise **Jupyter Notebook**  http://jupyter.org/ pour les supports de cours-TD-TP
 Jupyter Notebook est installable notamment avec Anaconda https://www.anaconda.com/download/
 
-Commande de lancement : `jupyter-notebok`
+Commande de lancement : `jupyter-notebook`
 
 ### Python Tutor 
  **Python Tutor**  permet permet de visualiser l'exécution d'un code en python, ce qui aide à comprendre son fonctionnement.
