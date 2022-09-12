@@ -13,7 +13,11 @@ git clone git@github.com:iutVilletaneuseDptInfo/R101_1.git
 ```
 Cela crée un dépot git intitulé R101_1.
 
-*Pour mettre à jour les données*, ouvrir un terminal dans le répertoire R101 et utiliser la commande `git pull`.
+*Pour mettre à jour les données*, ouvrir un terminal dans le répertoire R101 et utiliser les commandes
+```
+git commit -am 'MaJ'
+git pull
+```
 
 ## Environnement interactif : Jupyter Notebook et Python Tutor
 
