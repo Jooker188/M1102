@@ -1,3 +1,3 @@
 #/usr/bin bash
-jupyter nbextension enable visula_pytutor/main
+jupyter nbextension enable visual_pytutor/main
 python3 pull.py https://github.com/iutVilletaneuseDptInfo/R101_1.git
