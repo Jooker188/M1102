@@ -51,6 +51,13 @@ permet d'accéder à votre repertoire personnel
 
 Ouvrir avec le clic droit de la souris un terminal dans `Mes_Montages` et lancer Python Tutor et Jupyter notebook. 
 
+## Mise à jour automatique du dépôt
+
+Pour mettre à jour automatiquement le dépôt (ie, récupérer les nouveaux chapitres), vous pouvez exécuter le script `updateDepot` situé dans le répertoire cloné :
+```bash
+./updateDepot
+```
+
 
 ## Contributeurs pour la réalisation de ces supports de cours :
 * Hanane Azzag
